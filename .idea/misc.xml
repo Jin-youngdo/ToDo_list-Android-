@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/Hello/app/src/main/res/drawable/progressbar_progressbar1.xml" value="0.134" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/Hello/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/Hello/app/src/main/res/layout/row.xml" value="0.2" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/Hello/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/Hello/app/src/main/res/menu/strings.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/ToDo_list(Final_Exam)/app/src/main/res/drawable/progressbar_progressbar1.xml" value="0.2005" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/ToDo_list(Final_Exam)/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/ToDo_list(Final_Exam)/app/src/main/res/layout/row.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/jin-y/AndroidStudioProjects/ToDo_list(Final_Exam)/app/src/main/res/menu/menu.xml" value="0.22083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
